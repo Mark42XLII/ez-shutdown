@@ -1,0 +1,21 @@
+VS_VERSION_INFO VERSIONINFO
+    FILEVERSION    1,0,0,0
+    PRODUCTVERSION 1,0,0,0
+{
+    BLOCK "StringFileInfo"
+    {
+        BLOCK "040904b0"
+        {
+            VALUE "CompanyName",        "Mark42XLII"
+            VALUE "FileDescription",    "EzShutdown"
+            VALUE "FileVersion",        "1.0"
+            VALUE "LegalCopyright",     "© 2016 Mark42XLII"
+            VALUE "ProductName",        "EzShutdown"
+            VALUE "ProductVersion",     "1.0"
+        }
+    }
+    BLOCK "VarFileInfo"
+    {
+        VALUE "Translation", 0x0416, 1200
+    }
+}
